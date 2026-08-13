@@ -1,0 +1,9 @@
+﻿id_venda,cliente,produto,categoria,quantidade,preco_unitario,data_venda,cidade,estado,metodo_pagamento
+1001,Ana Souza,Teclado Mecânico,Periféricos,1,249.9,2026-08-10,Recife,PE,Pix
+1002,Bruno Lima,Mouse Gamer,Periféricos,2,89.9,2026-08-10,Olinda,PE,Cartão
+1003,Carla Mendes,Monitor 24,Monitores,1,799.0,2026-08-10,Recife,PE,Pix
+1004,Diego Alves,Headset USB,Áudio,1,159.9,2026-08-10,Jaboatão dos Guararapes,PE,Boleto
+1005,Elisa Rocha,Webcam Full HD,Acessórios,1,219.9,2026-08-10,Recife,PE,Cartão
+1006,Felipe Santos,Notebook Stand,Acessórios,1,119.9,2026-08-10,Paulista,PE,Pix
+1007,Gabriela Costa,Cabo HDMI 2m,Cabos,3,29.9,2026-08-10,Recife,PE,Dinheiro
+1008,Henrique Melo,SSD 1TB,Armazenamento,1,429.9,2026-08-10,Olinda,PE,Cartão

@@ -1,0 +1,9 @@
+﻿id_venda,cliente,produto,categoria,quantidade,preco_unitario,data_venda,cidade,estado,metodo_pagamento
+1016,Paula Martins,SSD 1TB,Armazenamento,1,419.9,2026-08-12,Recife,PE,Pix
+1017,Rafael Gomes,Mouse Gamer,Periféricos,1,94.9,12-08-2026,Recife,PE,Cartão
+1018,Sofia Araújo,Monitor 24 ,monitores,1,779.0,2026-08-12,Olinda,PE,Pix
+1019,Thiago Pires,Headset USB,Áudio,,159.9,2026-08-12,Paulista,PE,Boleto
+1020,Vitória Leal,Webcam full hd,Acessórios,2,209.9,2026-08-12,Recife,PE,Cartão
+1021,William Castro,Notebook Stand,Acessórios,1,119.9,2026-08-12,Jaboatão dos Guararapes,PE,Pix
+1022,Yasmin Dias,Cabo HDMI 2m,Cabos,2,29.9,2026-08-12,Recife,PE,Dinheiro
+1023,André Vieira,Teclado Mecânico,Periféricos,1,239.9,2026-08-12,Olinda,PE,Cartão
