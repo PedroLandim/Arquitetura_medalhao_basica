@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+
+data/gold/database.db
+data/silver/todos_csv_transformado.csv
+data/bronze/todos_csv.csv
